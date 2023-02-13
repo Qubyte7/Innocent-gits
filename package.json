@@ -1,7 +1,7 @@
 {
-  "name": "calculator-1..",
+  "name": "cal-y1..",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm install cal-y1b",
   "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

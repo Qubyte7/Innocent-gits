@@ -9,7 +9,7 @@ addition = addition + My_array[i];
 console.log(addition);
 }
 
-function multiply(){
+function multiply(My_array2){
 let i;
 let product = 1;
 let My_array2 = [12,2,3]
