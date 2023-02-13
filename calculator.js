@@ -1,7 +1,7 @@
 function addition(My_array){
     let i;
     let addition = 0;
-let My_array=[1,2,3,4,5,6];
+let My_array=[1,2,3,4,5];
 for(i=0;i<My_array.length;i++)
 {
 addition = addition + My_array[i];
