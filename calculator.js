@@ -9,12 +9,6 @@ addition = addition + My_array[i];
 console.log(addition);
 }
 
-addition();
-
-
-
-
-
 function multiply(){
 let i;
 let product = 1;
@@ -24,7 +18,7 @@ for(i=0;i<My_array2.length;i++){
 }
 console.log(product);
 }
-multiply();
+
 
  module.exports= {
     addition,
